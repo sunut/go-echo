@@ -1,0 +1,10 @@
+server:
+  port: ":10000"
+
+database:
+  dbname:
+  dbuser: "root"
+  dbpassword: "123"
+
+EXAMPLE_VAR: "variable from config.yml"
+EXAMPLE_PATH: "path from config.yml"
